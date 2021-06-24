@@ -1,0 +1,613 @@
+@media(min-width: 992px) and (max-width:1400px){ 
+/**Header part media query stargt ***/
+#header .navbar .navbar-nav .nav-item .nav-link
+{
+color:#6ad1d3;
+line-height:80px;
+}
+/**Header part media query ends ***/
+/**Banner part media query start ***/
+#banner-part .first_slider h1
+{
+font-size:50px;
+margin-left:30px;
+}
+#banner-part .first_slider p
+{
+padding-top:25px;
+padding-bottom:47px;
+}
+#banner-part .second_slider h1
+{
+font-size:50px;
+margin-left: 30px;
+}
+#banner-part .second_slider p
+{
+padding-top:25px;
+padding-bottom:47px;
+}
+#banner-part .third_slider h1
+{
+font-size:50px;
+margin-left:30px;
+} 
+#banner-part .third_slider p
+{
+padding-top:25px;
+padding-bottom:47px;
+}
+/**Banner part media query ends***/
+/**Service part media query start***/
+#Service_part .text h3
+{
+font-size:20px;
+}
+#Service_part .text p
+{
+font-size:13px;
+} 
+#Service_part .text a
+{
+margin-top:12px;
+}
+/**Service part media query ends***/
+/**Portfolio part media query start***/
+#portfolio h2
+{
+padding-bottom:44px;
+}
+/**Portfolio part media query ends***/
+/**Team part media query start***/
+#The_team h2
+{
+padding:65px 0;
+}
+/**Team part media query ends***/
+/**Clients part media query start***/
+#Client
+{
+padding-bottom:50px;
+}
+/**Clients part media query ends***/
+/**Fotter part media query ends***/
+#fotter h2
+{
+text-align: center;
+margin-bottom:50px;
+}
+#fotter .send 
+{
+margin-left:;
+} 
+#fotter .input-fields 
+{
+margin-bottom:12px;
+padding:10px 10px;
+}
+/**Fotter part media query ends***/
+}
+@media(min-width:768px) and (max-width:992px){
+/***Header part start****/
+#header .navbar .navbar-nav .nav-item .nav-link
+{
+padding:0 13px;
+line-height:75px;
+}
+/***Header part ends****/
+/***Banner part start****/
+#banner-part .first_slider h1
+{
+font-size:48px;
+padding-top:115px;
+}
+#banner-part .first_slider p
+{
+font-size:19px;
+padding-top:23px;
+padding-bottom:35px;
+}
+#banner-part .first_slider .bnr_btn
+{
+font-size:15px;
+}
+
+#banner-part .second_slider h1
+{
+font-size:48px;
+padding-top:115px;
+}
+#banner-part .second_slider p
+{
+font-size:19px;
+padding-top:23px;
+padding-bottom:35px;
+}
+#banner-part .second_slider .bnr_btn
+{
+font-size:15px;
+}
+#banner-part .third_slider h1
+{
+font-size:48px;
+padding-top:115px;
+}
+#banner-part .third_slider p
+{
+font-size:19px;
+padding-top:23px;
+padding-bottom:35px;
+}
+#banner-part .third_slider .bnr_btn
+{
+font-size:15px;
+}
+/***Banner part ends****/
+/***service part start****/
+#Service_part .text h3
+{
+font-size:22px;
+padding-top:26px;
+padding-bottom:17px;
+}
+#Service_part .text i
+{
+margin-top:-36px;
+}
+/****service part ends***/
+/****Portfolio part start***/
+#portfolio
+{
+background:#f1f1f1;
+padding-bottom:70px;
+}
+#portfolio .blog_btn a
+{
+margin-top:30px;
+} 
+/****Portfolio part ends***/
+/****Team part start***/
+#The_team 
+{
+padding-bottom: 80px;
+}
+#The_team h2
+{
+padding:60px 0;
+}
+/****Team part ends***/
+/****Chart-bar part start***/
+#Chart_bar
+{
+background:#f1f1f1;
+padding:80px 0;
+}
+#Chart_bar .barchart ul li .btn a
+{
+margin-left:0;
+}
+/****Chart-bar part ends***/
+/****Clients part start***/
+#Client
+{
+padding-top:70px;
+padding-bottom:50px;
+}
+/****Clients part ends***/
+/****Contact part start***/
+#fotter h2
+{
+margin-top:-30px;
+margin-bottom:59px;
+}
+#fotter .send
+{
+margin-left:315px;
+} 
+#fotter .input-fields 
+{
+margin-bottom:12px;
+padding:10px 10px;
+}
+/****Contact part ends***/
+
+}
+@media(min-width:576px) and (max-width: 768px){
+/****Header part start***/
+#header
+{
+padding:10px;
+}
+#header .navbar .navbar-nav .nav-item .nav-link
+{
+line-height:56px;
+text-align: center;
+transition: 0.4s;
+}
+#header .navbar .navbar-nav .nav-item .nav-link:hover
+{
+background:#f8f9fb;
+color:#6ad1d3;
+transition: 0.4s;
+}
+#header .navbar .navbar-nav .nav-item .nav-link:after
+{
+display:none;
+}
+#header .navbar .navbar-toggler
+{
+border:0;
+padding:0;
+}
+/****Header part ends***/
+/***Banner part start***/
+#banner-part .first_slider h1
+{
+font-size:40px;
+color:#ffffff;
+padding-top:80px;
+}
+#banner-part .first_slider p
+{
+font-size: 19px;
+padding-top: 27px;
+padding-bottom:40px;
+}
+#banner-part .first_slider .bnr_btn
+{
+font-size:19px;
+}
+#banner-part .second_slider h1
+{
+font-size:40px;
+color:#ffffff;
+padding-top:80px;
+}
+#banner-part .second_slider p
+{
+font-size: 19px;
+padding-top: 27px;
+padding-bottom:40px;
+}
+#banner-part .second_slider .bnr_btn
+{
+font-size:19px;
+}
+#banner-part .third_slider h1
+{
+font-size:40px;
+color:#ffffff;
+padding-top:80px;
+}
+#banner-part .third_slider p
+{
+font-size: 19px;
+padding-top: 27px;
+padding-bottom:40px;
+}
+#banner-part .third_slider .bnr_btn
+{
+font-size:19px;
+}
+/****Banner part ends***/
+/****Service part start***/
+#Service_part
+{
+padding-top:100px;
+}
+#Service_part .text i
+{
+margin-bottom:-18px;
+margin-top:-41px;
+}
+#Service_part .text p
+{
+font-size:12px;
+} 
+/****Service part ends***/
+/****Portfolio part start***/
+#portfolio .blog_btn a
+{
+margin-top:35px;
+margin-bottom:-40px;
+}
+/****Portfolio part ends***/
+/**** Team part start***/
+#The_team 
+{
+margin:-40px 0;
+}
+#The_team .content h3
+{
+padding-top:60px;
+}
+#The_team h2
+{
+font-size:42px;
+padding-top:109px;
+margin-bottom:-40px;
+}
+#The_team .content p
+{
+font-weight:12px;
+color:#4e525d;
+line-height: 26px;
+margin-top:25px;
+padding:0 6px;
+}
+/**** Team part ends***/
+/**** barchart part start***/
+#Chart_bar
+{
+padding:88px 0;
+}
+#Chart_bar .barchart ul li .title-1st a 
+{ 
+font-size:20px;
+}
+#Chart_bar .barchart ul li a
+{ 
+font-size:10px;
+}
+#Chart_bar .barchart ul li .doller a
+{
+font-size:16px;
+}
+#Chart_bar .barchart ul li .title-2nd a 
+{ 
+font-size:20px;
+}
+#Chart_bar .barchart ul li .title-3rd a 
+{ 
+font-size:20px;
+}
+#Chart_bar .barchart ul .buy_btn
+{
+background:#f8f9fb;
+display: block;
+margin-left:-32px;
+}
+#Chart_bar .barchart ul li .btn a
+{
+margin-left:0;
+padding:10px 30px;
+}
+/**** barchart part ends***/
+/**** Clients part start***/
+/***
+
+Ai khany clients part 
+responsive hoitycha na
+***/
+/**** Clients part ends***/
+/**** Fotter part start***/
+#fotter
+{
+padding:60px 0;
+}
+#fotter h2
+{
+font-size:42px;
+margin-bottom:50px;
+}
+#fotter .input-fields 
+{
+margin-bottom:12px;
+padding:10px 10px;
+}
+#fotter .send
+{
+font-size:15px;
+line-height:40px;
+padding:0 30px;
+margin-left:148px;
+} 
+/**** Fotter part ends***/
+}
+@media(min-width:320px) and (max-width: 576px){ 
+/**** Header part start***/
+#header .navbar .navbar-nav .nav-item .nav-link
+{
+line-height:52px;
+text-align: center;
+}
+#header .navbar .navbar-nav .nav-item .nav-link:after
+{
+display:none;
+}
+#header .navbar .navbar-toggler
+{
+border:0;
+padding:0;
+margin:15px 0;
+}
+#header .navbar .navbar-brand  img
+{
+font-size:50px;
+width:100px;
+}
+/**** Header part ends***/
+/**** Banner part start***/
+
+#banner-part .first_slider h1
+{
+font-size:40px;
+padding-top:85px;
+}
+#banner-part .first_slider p
+{
+font-size:15px;
+padding-top:24px;
+padding-bottom:40px;
+line-height:35px;
+}
+#banner-part .first_slider .bnr_btn
+{
+font-size:16px;
+padding-right:20px;
+padding-left:20px;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+#banner-part .second_slider h1
+{
+font-size:40px;
+padding-top:85px;
+}
+#banner-part .second_slider p
+{
+font-size:15px;
+padding-top:24px;
+padding-bottom:40px;
+line-height:35px;
+}
+#banner-part .second_slider .bnr_btn
+{
+font-size:15px;
+padding-right:20px;
+padding-left:20px;
+padding-top:10px;
+padding-bottom:10px;
+}
+#banner-part .third_slider h1
+{
+font-size:40px;
+padding-top:85px;
+}
+#banner-part .third_slider p
+{
+font-size:15px;
+padding-top:24px;
+padding-bottom:40px;
+}
+#banner-part .third_slider .bnr_btn
+{
+font-size:15px;
+padding-right:20px;
+padding-left:20px;
+padding-top:10px;
+padding-bottom:10px;
+}
+/**** Banner part ends***/
+/**** Service  part start***/
+
+#Service_part .text i
+{
+margin-top:-46px;
+}
+/**** Service  part ends***/
+/**** Portfolio  part start***/
+#portfolio
+{
+padding-bottom: 50px;
+}
+#portfolio h2
+{
+padding-bottom:34px;
+}
+#portfolio .portfolio_item img
+{
+padding: 0 10px;
+}
+#portfolio .blog_btn a
+{
+font-size:18px;
+line-height:45px;
+padding: 0 20px;
+margin-top:26px;
+} 
+
+/**** Portfolio  part ends***/
+/**** The Team part start***/
+#The_team 
+{
+padding-bottom: 50px;
+}
+#The_team h2
+{
+font-size:42px;
+padding:60px 0;
+}
+#The_team .team_member
+{
+padding: 0 15px; 
+} 
+#The_team .content h3
+{
+font-weight:22px;
+padding-top:27px;
+}
+/**** The Team part ends***/
+/**** Chart-bar part start***/
+#Chart_bar
+{
+background:#f1f1f1;
+padding:80px 0;
+}
+#Chart_bar .barchart
+{
+background:;
+justify-content: center;
+align-items: center;
+text-align: center;
+transition:.4s;
+margin:15px 15px;
+}
+#Chart_bar .barchart ul li .btn a
+{
+margin-left:0;
+padding:10px 20px;
+border-radius:5px;
+}
+
+/**** Chart-bar part ends***/
+/**** Contact part start***/
+#fotter h2
+{
+text-align: center;
+margin-top:-50px;
+padding-bottom:-40px;
+}
+#fotter h1
+{
+font-size:20px;
+padding:0 5px;
+}
+#fotter p
+{
+font-size:12px;
+padding-top:19px;
+padding-right:5px;
+padding-left:5px;
+}
+#fotter ul li a i
+{
+display:none;
+}
+#fotter h5
+{
+font-size:10px;
+}
+#fotter .input-fields
+{
+padding: 5px 5px;
+margin: 5px;
+margin-right:10px;
+margin-left:5px;
+} 
+#fotter .message .input-fields
+{
+height:100px;
+}
+#fotter .send
+{
+line-height:40px;
+font-size:15px;
+margin-left:65px;
+padding:0 30px;
+}
+/**** Contact part ends***/
+
+}
+
